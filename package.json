@@ -123,7 +123,7 @@
 "build:step117": "echo 'Build step 117'",
 "build:step118": "echo 'Build step 118'",
 "build:step119": "echo 'Build step 119'",
-"build:step120": "echo 'Build step 120'",
+"build:step120": "echo 'Build step 120'"
   },
     "start": "node server.js"
   },
